@@ -1,7 +1,7 @@
 {
   "uuid": "hide-spotify-tray@alessandrot",
   "name": "Hide Spotify Tray Icon",
-  "description": "Hides Spotify's AppIndicator tray icon from the top bar, for when playback is controlled from another extension such as a media controller.",
+  "description": "Hides Spotify's AppIndicator tray icon from the top bar; playback controls are provided by the media-controller extension.",
   "shell-version": [
     "50"
   ],
